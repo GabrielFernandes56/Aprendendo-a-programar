@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando no [Aprendendo a programar](https://github.com/GabrielFernandes56/Aprendendo-a-programar)
 
-- 🌱 Atualmente estou aprendendo **Java, C# e banco de dados**
+- 🌱 Atualmente estou aprendendo **Java e banco de dados SQL SERVER, MySQL e noSQL**
 
 - 📫 Onde me contatar **gabrielfernsilva23@gmail.com**
 
